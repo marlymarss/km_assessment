@@ -3,6 +3,12 @@
 This application implements a game server to communicate with client code provided by Konica Minolta.    
 
 ## Steps to run app on local server
+1. Clone/download repo
+
+then when the repository has been cloned:
+```
+npm install # installing the dependencies
+```
 To start the express server, run the following
 
 ```
