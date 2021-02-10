@@ -12,7 +12,8 @@ npm install # installing the dependencies
 To start the express server, run the following
 
 ```
-npm run server.js
+Mac: npm run server.js
+Windows: npm start node server.js
 ```
 Open http://localhost:8080 to start game.
 
