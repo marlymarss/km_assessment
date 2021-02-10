@@ -1,6 +1,6 @@
 # Konica Minolta Technical Assessment
 
-This application implements a game server to communicate with client code provided by Konica Minolta.    
+The task was to impplement a game server that can communicate with the client code provided by Konica Minolta. This is my solution.     
 
 ## Steps to run app on local server
 1. Clone/download repo
