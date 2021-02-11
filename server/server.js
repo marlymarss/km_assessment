@@ -6,10 +6,6 @@ var gameLogic = require('./logic');
 
 app.use(express.static(path.join(__dirname, 'client')));
 
-app.listen(8080, function () {
-    console.log("API Running");
-});
-
 // parse application/x-www-form-urlencoded
 app.use(bodyParser.urlencoded({
     extended: true
